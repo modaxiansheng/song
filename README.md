@@ -1,8 +1,8 @@
-# vue-music-qq
+# song 
 
 #### 介绍
 基于vue的音乐播放器
-
+a Graduation design of music playing app based on Vue
 #### 软件架构
 使用了vue、vue-router、vuex进行框架搭建
 
